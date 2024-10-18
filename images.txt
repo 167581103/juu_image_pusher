@@ -1,4 +1,2 @@
-elasticsearch:8.15.2
-canal/canal-server:latest
-alexmbarbosa/mysql5.7:latest
-kibana:8.15.2
+elasticsearch:5.6.8
+tobias74/elasticsearch-head
