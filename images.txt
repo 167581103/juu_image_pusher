@@ -1,3 +1,3 @@
 elasticsearch
 canal-server
-alexmbarbosa/mysql5.7 
+alexmbarbosa/mysql5.7
