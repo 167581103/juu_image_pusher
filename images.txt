@@ -1,2 +1,1 @@
-elasticsearch:5.6.8
-tobias74/elasticsearch-head
+rabbitmq:3.12.14
